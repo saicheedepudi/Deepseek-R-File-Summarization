@@ -15,7 +15,10 @@ Key technical components:
 - ✨ AI-powered document summarization
 - ⚡ Real-time processing feedback
 - 🔍 Optional chunk inspection
+
+
 ![Summarize File](https://github.com/user-attachments/assets/bfad36ce-93cb-4053-9900-6247a2a939b4)
+
 
 <img width="884" alt="image" src="https://github.com/user-attachments/assets/ae7c9623-9355-4f47-9f34-25e22c99579d" />
 
