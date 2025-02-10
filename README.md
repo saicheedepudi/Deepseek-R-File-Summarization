@@ -25,13 +25,17 @@ Key technical components:
 - Deepseek model: `ollama pull deepseek-r1:1.5b`
 
 ## Installation
-# Pull DeepSeek model
-ollama pull deepseek-r1:1.5b
+Pull DeepSeek model
+ ollama pull deepseek-r1:1.5b
 
 ## Setup
 
 Install dependencies:
+
 pip install -r requirements.txt
+
 Create PDF directory:
+
 mkdir -p pdf
+
 streamlit run main.py
